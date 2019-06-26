@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="New Unity Project.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\RoomEntered.cs">
+    <Files>
+      <File FileName="Assets\Script\UIHeartManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RoomTransfer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\UIMiniMapController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EnemyAnimatorController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\RoomEntered.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
